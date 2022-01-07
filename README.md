@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Surya-kiran-paluru
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on c,c++,python projects
 - 📫 How to reach me : pskiran02@gmail.com
